@@ -1,0 +1,33 @@
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.csproj.AssemblyReference.cache
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.AssemblyInfoInputs.cache
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.AssemblyInfo.cs
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\appsettings.json
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Arogya Medical store.exe
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Arogya Medical store.deps.json
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Arogya Medical store.runtimeconfig.json
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Arogya Medical store.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Arogya Medical store.pdb
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\scopedcss\bundle\Arogya Medical store.styles.css
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.csproj.CopyComplete
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\refint\Arogya Medical store.dll
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.pdb
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\Arogya Medical store.genruntimeconfig.cache
+C:\Users\Akash\Desktop\WAD Project\Arogya Medical store\Arogya Medical store\obj\Debug\net6.0\ref\Arogya Medical store.dll
